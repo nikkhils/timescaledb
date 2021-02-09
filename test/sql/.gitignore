@@ -28,3 +28,4 @@
 /sql_query_results_x_diff-*.sql
 /sql_query-*.sql
 /update-*.sql
+/vacuum_parallel-*.sql
