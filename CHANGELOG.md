@@ -14,6 +14,7 @@ accidentally triggering the load of a previous DB version.**
 * #5252 Improve unique constraint support on compressed hypertables
 * #5312 Add timeout support to ping_data_node()
 * #5454 Add support for ON CONFLICT DO UPDATE for compressed hypertables
+* #5417 Refactor and simplify distributed COPY
 
 **Bugfixes**
 * #5396 Fix SEGMENTBY columns predicates to be pushed down
